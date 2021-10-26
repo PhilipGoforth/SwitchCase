@@ -11,7 +11,7 @@ namespace SwitchCase
             {
                 Console.WriteLine("What is your favorite school subject?");
                 string favCourse = Console.ReadLine();
-                switch (favCourse)
+                switch (favCourse.ToLower())
                 {
                     case "lunch":
                         Console.WriteLine($"{favCourse}? That's what I'm talking about!");
@@ -22,7 +22,7 @@ namespace SwitchCase
                     case "recess":
                         Console.WriteLine($"{favCourse} was one of my favorites too!");
                         break;
-                    case "PE":
+                    case "pe":
                         Console.WriteLine($"{favCourse}? You liked that class?");
                         break;
                     case "math":
