@@ -22,7 +22,7 @@ namespace SwitchCase
                     case "recess":
                         Console.WriteLine($"{favCourse} was one of my favorites too!");
                         break;
-                    case "gym":
+                    case "PE":
                         Console.WriteLine($"{favCourse}? You liked that class?");
                         break;
                     case "math":
@@ -34,16 +34,8 @@ namespace SwitchCase
                 }
                 Console.WriteLine("Any more subjects you liked? (y/n)");
                 var answer = Console.ReadLine();
-                if(answer == "y")
-                {
-                    playAgain = true;
-                }
-                else
-                {
-                    playAgain = false;
-                }
+                playAgain = answer == "y" ?  true :  false;
             }
-
         }
     }
 }
