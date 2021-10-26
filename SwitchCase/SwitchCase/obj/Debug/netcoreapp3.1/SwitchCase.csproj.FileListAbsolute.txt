@@ -1,0 +1,14 @@
+C:\Users\Ego\repos\SwitchCase\SwitchCase\SwitchCase\bin\Debug\netcoreapp3.1\SwitchCase.exe
+C:\Users\Ego\repos\SwitchCase\SwitchCase\SwitchCase\bin\Debug\netcoreapp3.1\SwitchCase.deps.json
+C:\Users\Ego\repos\SwitchCase\SwitchCase\SwitchCase\bin\Debug\netcoreapp3.1\SwitchCase.runtimeconfig.json
+C:\Users\Ego\repos\SwitchCase\SwitchCase\SwitchCase\bin\Debug\netcoreapp3.1\SwitchCase.runtimeconfig.dev.json
+C:\Users\Ego\repos\SwitchCase\SwitchCase\SwitchCase\bin\Debug\netcoreapp3.1\SwitchCase.dll
+C:\Users\Ego\repos\SwitchCase\SwitchCase\SwitchCase\bin\Debug\netcoreapp3.1\SwitchCase.pdb
+C:\Users\Ego\repos\SwitchCase\SwitchCase\SwitchCase\obj\Debug\netcoreapp3.1\SwitchCase.csproj.AssemblyReference.cache
+C:\Users\Ego\repos\SwitchCase\SwitchCase\SwitchCase\obj\Debug\netcoreapp3.1\SwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ego\repos\SwitchCase\SwitchCase\SwitchCase\obj\Debug\netcoreapp3.1\SwitchCase.AssemblyInfoInputs.cache
+C:\Users\Ego\repos\SwitchCase\SwitchCase\SwitchCase\obj\Debug\netcoreapp3.1\SwitchCase.AssemblyInfo.cs
+C:\Users\Ego\repos\SwitchCase\SwitchCase\SwitchCase\obj\Debug\netcoreapp3.1\SwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\Ego\repos\SwitchCase\SwitchCase\SwitchCase\obj\Debug\netcoreapp3.1\SwitchCase.dll
+C:\Users\Ego\repos\SwitchCase\SwitchCase\SwitchCase\obj\Debug\netcoreapp3.1\SwitchCase.pdb
+C:\Users\Ego\repos\SwitchCase\SwitchCase\SwitchCase\obj\Debug\netcoreapp3.1\SwitchCase.genruntimeconfig.cache
